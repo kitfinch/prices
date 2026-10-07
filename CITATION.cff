@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Kitfinch verified small-business software prices"
+authors:
+  - name: "Kitfinch"
+    website: "https://kitfinch.com"
+    email: "contact@kitfinch.com"
+license: CC-BY-4.0
+url: "https://kitfinch.com/data"
+repository-code: "https://github.com/kitfinch/prices"
+date-released: "2026-10-05"
+keywords:
+  - pricing-data
+  - small-business
+  - software-pricing
+  - open-data

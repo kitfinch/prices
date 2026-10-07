@@ -1,0 +1,133 @@
+tool,tool_name,plan,amount_usd,period,billing,min_units,verified_at,source_url,kitfinch_url
+aircall,Aircall,Essentials,30,user_month,annual,3,2026-09-24T23:40:00.000Z,https://aircall.io/pricing/,https://kitfinch.com/tools/aircall/pricing
+aircall,Aircall,Professional,50,user_month,annual,3,2026-09-24T23:40:00.000Z,https://aircall.io/pricing/,https://kitfinch.com/tools/aircall/pricing
+answering-service-care,Answering Service Care,Starter,40,month,standard,,2026-09-24T22:26:00.000Z,https://answeringservicecare.com/pricing/,https://kitfinch.com/tools/answering-service-care/pricing
+answering-service-care,Answering Service Care,Small Business,179,month,standard,,2026-09-24T22:26:00.000Z,https://answeringservicecare.com/pricing/,https://kitfinch.com/tools/answering-service-care/pricing
+answering-service-care,Answering Service Care,Pro,329,month,standard,,2026-09-24T22:26:00.000Z,https://answeringservicecare.com/pricing/,https://kitfinch.com/tools/answering-service-care/pricing
+answering-service-care,Answering Service Care,Enterprise,639,month,standard,,2026-09-24T22:26:00.000Z,https://answeringservicecare.com/pricing/,https://kitfinch.com/tools/answering-service-care/pricing
+bill,BILL,Spend & Expense,0,user_month,standard,,2026-09-25T00:00:00.000Z,https://www.bill.com/pricing,https://kitfinch.com/tools/bill/pricing
+booksy,Booksy,Core Subscription,29.99,month,standard,,2026-09-26T00:00:00.000Z,https://biz.booksy.com/en-us/pricing,https://kitfinch.com/tools/booksy/pricing
+callrail,CallRail,Lead Tracking,50,month,annual,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Tracking,55,month,monthly,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Tracking Complete,95,month,annual,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Tracking Complete,105,month,monthly,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Conversion,150,month,annual,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Conversion,165,month,monthly,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Conversion Complete,195,month,annual,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+callrail,CallRail,Lead Conversion Complete,215,month,monthly,,2026-10-05T21:32:00.000Z,https://www.callrail.com/pricing,https://kitfinch.com/tools/callrail/pricing
+checkr,Checkr,Basic,29.99,report,standard,,2026-10-05T21:30:32.000Z,https://checkr.com/pricing,https://kitfinch.com/tools/checkr/pricing
+checkr,Checkr,Essential,59.99,report,standard,,2026-10-05T21:30:32.000Z,https://checkr.com/pricing,https://kitfinch.com/tools/checkr/pricing
+checkr,Checkr,Complete,94.99,report,standard,,2026-10-05T21:30:32.000Z,https://checkr.com/pricing,https://kitfinch.com/tools/checkr/pricing
+close,Close,Startup,19,user_month,monthly,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+close,Close,Startup,9,user_month,annual,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+close,Close,Professional,49,user_month,monthly,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+close,Close,Professional,35,user_month,annual,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+close,Close,Enterprise,109,user_month,monthly,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+close,Close,Enterprise,99,user_month,annual,,2026-09-24T23:40:00.000Z,https://www.close.com/pricing,https://kitfinch.com/tools/close/pricing
+coast,Coast,Cards and expense management,4,user_month,standard,,2026-09-27T19:30:32.000Z,https://coastpay.com/pricing,https://kitfinch.com/tools/coast/pricing
+coast,Coast,Bill Pay,99,month,standard,,2026-09-27T19:30:32.000Z,https://coastpay.com/pricing,https://kitfinch.com/tools/coast/pricing
+connecteam,Connecteam,Small Business Plan,0,month,standard,,2026-09-27T19:30:32.000Z,https://connecteam.com/pricing/,https://kitfinch.com/tools/connecteam/pricing
+connecteam,Connecteam,Basic,29,month,annual,,2026-09-27T19:30:32.000Z,https://connecteam.com/pricing/,https://kitfinch.com/tools/connecteam/pricing
+deputy,Deputy,Lite,5,month,standard,,2026-09-26T00:00:00.000Z,https://www.deputy.com/pricing,https://kitfinch.com/tools/deputy/pricing
+deputy,Deputy,Core,6.5,month,standard,,2026-09-26T00:00:00.000Z,https://www.deputy.com/pricing,https://kitfinch.com/tools/deputy/pricing
+deputy,Deputy,Pro,9,month,standard,,2026-09-26T00:00:00.000Z,https://www.deputy.com/pricing,https://kitfinch.com/tools/deputy/pricing
+freshbooks,FreshBooks,Lite,23,month,standard,,2026-09-26T00:00:00.000Z,https://www.freshbooks.com/pricing,https://kitfinch.com/tools/freshbooks/pricing
+freshbooks,FreshBooks,Plus,43,month,standard,,2026-09-26T00:00:00.000Z,https://www.freshbooks.com/pricing,https://kitfinch.com/tools/freshbooks/pricing
+freshbooks,FreshBooks,Premium,70,month,standard,,2026-09-26T00:00:00.000Z,https://www.freshbooks.com/pricing,https://kitfinch.com/tools/freshbooks/pricing
+glossgenius,GlossGenius,Standard,24,month,standard,,2026-09-25T01:38:00.000Z,https://glossgenius.com/pricing,https://kitfinch.com/tools/glossgenius/pricing
+glossgenius,GlossGenius,Gold,48,month,standard,,2026-09-25T01:38:00.000Z,https://glossgenius.com/pricing,https://kitfinch.com/tools/glossgenius/pricing
+gohighlevel,GoHighLevel,Starter (Agency),97,month,standard,,2026-09-24T23:40:00.000Z,https://www.gohighlevel.com/pricing,https://kitfinch.com/tools/gohighlevel/pricing
+gohighlevel,GoHighLevel,Unlimited (Agency),297,month,standard,,2026-09-25T00:00:00.000Z,https://www.gohighlevel.com/pricing,https://kitfinch.com/tools/gohighlevel/pricing
+gusto,Gusto,Simple,49,month,standard,,2026-09-24T22:26:00.000Z,https://gusto.com/pricing,https://kitfinch.com/tools/gusto/pricing
+gusto,Gusto,Plus,80,month,standard,,2026-09-24T22:26:00.000Z,https://gusto.com/pricing,https://kitfinch.com/tools/gusto/pricing
+gusto,Gusto,Premium,180,month,standard,,2026-09-24T22:26:00.000Z,https://gusto.com/pricing,https://kitfinch.com/tools/gusto/pricing
+homebase,Homebase,Essentials,30,month,standard,,2026-09-26T00:00:00.000Z,https://joinhomebase.com/pricing/,https://kitfinch.com/tools/homebase/pricing
+homebase,Homebase,Plus,70,month,standard,,2026-09-26T00:00:00.000Z,https://joinhomebase.com/pricing/,https://kitfinch.com/tools/homebase/pricing
+homebase,Homebase,All-in-One,120,month,standard,,2026-09-26T00:00:00.000Z,https://joinhomebase.com/pricing/,https://kitfinch.com/tools/homebase/pricing
+housecall-pro,Housecall Pro,Basic,59,month,standard,,2026-09-24T23:40:00.000Z,https://www.housecallpro.com/pricing/,https://kitfinch.com/tools/housecall-pro/pricing
+housecall-pro,Housecall Pro,Essentials,149,month,standard,,2026-09-24T23:40:00.000Z,https://www.housecallpro.com/pricing/,https://kitfinch.com/tools/housecall-pro/pricing
+housecall-pro,Housecall Pro,MAX,299,month,standard,,2026-09-24T23:40:00.000Z,https://www.housecallpro.com/pricing/,https://kitfinch.com/tools/housecall-pro/pricing
+houzz-pro,Houzz Pro,Design,99,month,standard,,2026-10-05T21:33:17.000Z,https://www.houzz.com/houzz-pro/pricing,https://kitfinch.com/tools/houzz-pro/pricing
+houzz-pro,Houzz Pro,Pro,199,month,standard,,2026-10-05T21:33:17.000Z,https://www.houzz.com/houzz-pro/pricing,https://kitfinch.com/tools/houzz-pro/pricing
+houzz-pro,Houzz Pro,Teams,399,month,standard,,2026-10-05T21:33:17.000Z,https://www.houzz.com/houzz-pro/pricing,https://kitfinch.com/tools/houzz-pro/pricing
+jobber,Jobber,Core,49,month,annual,,2026-09-24T22:26:00.000Z,https://www.getjobber.com/pricing/,https://kitfinch.com/tools/jobber/pricing
+jobber,Jobber,Connect,139,month,standard,,2026-09-24T22:26:00.000Z,https://www.getjobber.com/pricing/,https://kitfinch.com/tools/jobber/pricing
+jobber,Jobber,Grow,199,month,standard,,2026-09-24T22:26:00.000Z,https://www.getjobber.com/pricing/,https://kitfinch.com/tools/jobber/pricing
+melio,Melio,Go,0,month,standard,,2026-09-27T19:31:54.000Z,https://meliopayments.com/pricing,https://kitfinch.com/tools/melio/pricing
+melio,Melio,Core,25,month,standard,,2026-09-27T19:31:54.000Z,https://meliopayments.com/pricing,https://kitfinch.com/tools/melio/pricing
+melio,Melio,Boost,55,month,standard,,2026-09-27T19:31:54.000Z,https://meliopayments.com/pricing,https://kitfinch.com/tools/melio/pricing
+melio,Melio,Unlimited,80,month,standard,,2026-09-27T19:31:54.000Z,https://meliopayments.com/pricing,https://kitfinch.com/tools/melio/pricing
+nextiva,Nextiva,Core,15,user_month,standard,,2026-09-27T10:00:00.000Z,https://www.nextiva.com/pricing.html,https://kitfinch.com/tools/nextiva/pricing
+nextiva,Nextiva,Engage,25,user_month,standard,,2026-09-27T10:00:00.000Z,https://www.nextiva.com/pricing.html,https://kitfinch.com/tools/nextiva/pricing
+nextiva,Nextiva,Scale,75,user_month,standard,,2026-09-27T10:00:00.000Z,https://www.nextiva.com/pricing.html,https://kitfinch.com/tools/nextiva/pricing
+nicejob,NiceJob,Starter,75,month,standard,,2026-09-27T10:00:00.000Z,https://get.nicejob.com/pricing,https://kitfinch.com/tools/nicejob/pricing
+opentable,OpenTable,Basic,149,month,standard,,2026-09-27T19:34:50.000Z,https://www.opentable.com/restaurant-solutions/plans/,https://kitfinch.com/tools/opentable/pricing
+opentable,OpenTable,Core,299,month,standard,,2026-09-27T19:34:50.000Z,https://www.opentable.com/restaurant-solutions/plans/,https://kitfinch.com/tools/opentable/pricing
+opentable,OpenTable,Pro,499,month,standard,,2026-09-27T19:34:50.000Z,https://www.opentable.com/restaurant-solutions/plans/,https://kitfinch.com/tools/opentable/pricing
+owner-com,Owner.com,Flat Rate,499,month,standard,,2026-09-25T01:38:00.000Z,https://www.owner.com/pricing,https://kitfinch.com/tools/owner-com/pricing
+pandadoc,PandaDoc,Free,0,month,standard,,2026-09-24T22:26:00.000Z,https://www.pandadoc.com/pricing/,https://kitfinch.com/tools/pandadoc/pricing
+podium,Podium,Core,399,month,standard,,2026-09-24T22:26:00.000Z,https://www.podium.com/pricing/,https://kitfinch.com/tools/podium/pricing
+podium,Podium,Pro,599,month,standard,,2026-09-24T22:26:00.000Z,https://www.podium.com/pricing/,https://kitfinch.com/tools/podium/pricing
+quickbooks-online,QuickBooks Online,Free,0,month,standard,,2026-09-24T22:26:00.000Z,https://quickbooks.intuit.com/pricing/,https://kitfinch.com/tools/quickbooks-online/pricing
+quickbooks-online,QuickBooks Online,Simple Start,38,month,standard,,2026-09-24T22:26:00.000Z,https://quickbooks.intuit.com/pricing/,https://kitfinch.com/tools/quickbooks-online/pricing
+quickbooks-online,QuickBooks Online,Essentials,85,month,standard,,2026-09-24T22:26:00.000Z,https://quickbooks.intuit.com/pricing/,https://kitfinch.com/tools/quickbooks-online/pricing
+quickbooks-online,QuickBooks Online,Plus,140,month,standard,,2026-09-24T22:26:00.000Z,https://quickbooks.intuit.com/pricing/,https://kitfinch.com/tools/quickbooks-online/pricing
+quickbooks-online,QuickBooks Online,Advanced,340,month,standard,,2026-09-24T22:26:00.000Z,https://quickbooks.intuit.com/pricing/,https://kitfinch.com/tools/quickbooks-online/pricing
+quo,Quo (formerly OpenPhone),Starter,19,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+quo,Quo (formerly OpenPhone),Starter (annual),15,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+quo,Quo (formerly OpenPhone),Business,33,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+quo,Quo (formerly OpenPhone),Business (annual),23,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+quo,Quo (formerly OpenPhone),Scale,47,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+quo,Quo (formerly OpenPhone),Scale (annual),35,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.quo.com/pricing,https://kitfinch.com/tools/quo/pricing
+ringcentral,RingCentral,Core,30,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.ringcentral.com/office/pricing.html,https://kitfinch.com/tools/ringcentral/pricing
+ringcentral,RingCentral,Core (annual),20,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.ringcentral.com/office/pricing.html,https://kitfinch.com/tools/ringcentral/pricing
+ringcentral,RingCentral,Advanced,35,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.ringcentral.com/office/pricing.html,https://kitfinch.com/tools/ringcentral/pricing
+ringcentral,RingCentral,Advanced (annual),25,user_month,standard,,2026-09-24T22:26:00.000Z,https://www.ringcentral.com/office/pricing.html,https://kitfinch.com/tools/ringcentral/pricing
+salesflare,Salesflare,Growth,29,user_month,annual,,2026-09-24T23:40:00.000Z,https://salesflare.com/pricing/,https://kitfinch.com/tools/salesflare/pricing
+salesflare,Salesflare,Pro,49,user_month,annual,,2026-09-24T23:40:00.000Z,https://salesflare.com/pricing/,https://kitfinch.com/tools/salesflare/pricing
+salesflare,Salesflare,Enterprise,99,user_month,annual,,2026-09-24T23:40:00.000Z,https://salesflare.com/pricing/,https://kitfinch.com/tools/salesflare/pricing
+service-fusion,Service Fusion,Starter,208,month,annual,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+service-fusion,Service Fusion,Starter,245,month,monthly,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+service-fusion,Service Fusion,Plus,325,month,annual,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+service-fusion,Service Fusion,Plus,382,month,monthly,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+service-fusion,Service Fusion,Pro,533,month,annual,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+service-fusion,Service Fusion,Pro,627,month,monthly,,2026-10-05T21:30:01.000Z,https://www.servicefusion.com/pricing,https://kitfinch.com/tools/service-fusion/pricing
+servicem8,ServiceM8,Free,0,month,standard,,2026-09-24T22:26:00.000Z,https://www.servicem8.com/en-us/pricing,https://kitfinch.com/tools/servicem8/pricing
+servicem8,ServiceM8,Starter,29,month,standard,,2026-09-24T22:26:00.000Z,https://www.servicem8.com/en-us/pricing,https://kitfinch.com/tools/servicem8/pricing
+servicem8,ServiceM8,Growing,79,month,standard,,2026-09-24T22:26:00.000Z,https://www.servicem8.com/en-us/pricing,https://kitfinch.com/tools/servicem8/pricing
+servicem8,ServiceM8,Premium,149,month,standard,,2026-09-24T22:26:00.000Z,https://www.servicem8.com/en-us/pricing,https://kitfinch.com/tools/servicem8/pricing
+servicem8,ServiceM8,Premium Plus,349,month,standard,,2026-09-24T22:26:00.000Z,https://www.servicem8.com/en-us/pricing,https://kitfinch.com/tools/servicem8/pricing
+sling,Sling,Premium,2,month,standard,,2026-09-26T00:00:00.000Z,https://getsling.com/pricing/,https://kitfinch.com/tools/sling/pricing
+sling,Sling,Business,4,month,standard,,2026-09-26T00:00:00.000Z,https://getsling.com/pricing/,https://kitfinch.com/tools/sling/pricing
+smith-ai,Smith.ai,Starter,300,month,standard,,2026-09-27T10:00:00.000Z,https://smith.ai/pricing,https://kitfinch.com/tools/smith-ai/pricing
+spoton,SpotOn,POS Essentials,55,month,standard,,2026-09-27T19:32:24.000Z,https://www.spoton.com/pricing/,https://kitfinch.com/tools/spoton/pricing
+square,Square,Free,0,month,standard,,2026-09-26T00:00:00.000Z,https://squareup.com/us/en/pricing,https://kitfinch.com/tools/square/pricing
+square-invoices,Square Invoices,Square Free,0,month,standard,,2026-09-27T19:32:26.000Z,https://squareup.com/us/en/invoices/pricing,https://kitfinch.com/tools/square-invoices/pricing
+square-invoices,Square Invoices,Square Plus,49,month,standard,,2026-09-27T19:32:26.000Z,https://squareup.com/us/en/invoices/pricing,https://kitfinch.com/tools/square-invoices/pricing
+square-invoices,Square Invoices,Square Premium,149,month,standard,,2026-09-27T19:32:26.000Z,https://squareup.com/us/en/invoices/pricing,https://kitfinch.com/tools/square-invoices/pricing
+time-doctor,Time Doctor,Basic,6.67,user_month,annual,,2026-09-27T19:33:48.000Z,https://www.timedoctor.com/pricing,https://kitfinch.com/tools/time-doctor/pricing
+time-doctor,Time Doctor,Standard,11.67,user_month,annual,,2026-09-27T19:33:48.000Z,https://www.timedoctor.com/pricing,https://kitfinch.com/tools/time-doctor/pricing
+time-doctor,Time Doctor,Premium,16.7,user_month,annual,,2026-09-27T19:33:48.000Z,https://www.timedoctor.com/pricing,https://kitfinch.com/tools/time-doctor/pricing
+toast,Toast,Starter Kit,0,month,standard,,2026-09-27T19:34:23.000Z,https://pos.toasttab.com/pricing,https://kitfinch.com/tools/toast/pricing
+toast,Toast,Point of Sale,69,month,standard,,2026-09-27T19:34:23.000Z,https://pos.toasttab.com/pricing,https://kitfinch.com/tools/toast/pricing
+touchbistro,TouchBistro,Point of Sale,69,month,standard,,2026-09-25T01:38:00.000Z,https://www.touchbistro.com/pricing/,https://kitfinch.com/tools/touchbistro/pricing
+tradify,Tradify,Lite,47,month,standard,,2026-09-26T00:00:00.000Z,https://www.tradifyhq.com/us/pricing,https://kitfinch.com/tools/tradify/pricing
+tradify,Tradify,Pro,51,month,standard,,2026-09-26T00:00:00.000Z,https://www.tradifyhq.com/us/pricing,https://kitfinch.com/tools/tradify/pricing
+tradify,Tradify,Plus,61,month,standard,,2026-09-26T00:00:00.000Z,https://www.tradifyhq.com/us/pricing,https://kitfinch.com/tools/tradify/pricing
+unbounce,Unbounce,Starter,29,month,monthly,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Starter (annual),22,month,annual,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Build,99,month,monthly,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Build (annual),74,month,annual,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Experiment,149,month,monthly,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Experiment (annual),112,month,annual,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Optimize,249,month,monthly,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+unbounce,Unbounce,Optimize (annual),187,month,annual,,2026-09-24T22:26:00.000Z,https://unbounce.com/pricing/,https://kitfinch.com/tools/unbounce/pricing
+weave,Weave,Starting price,199,month,standard,,2026-09-26T00:00:00.000Z,https://www.getweave.com/pricing/,https://kitfinch.com/tools/weave/pricing
+webflow,Webflow,Basic (annual),15,month,standard,,2026-09-24T22:26:00.000Z,https://webflow.com/pricing,https://kitfinch.com/tools/webflow/pricing
+webflow,Webflow,Premium (annual),25,month,standard,,2026-09-24T22:26:00.000Z,https://webflow.com/pricing,https://kitfinch.com/tools/webflow/pricing
+wheniwork,When I Work,Essentials,2.5,month,standard,,2026-09-26T00:00:00.000Z,https://wheniwork.com/pricing/,https://kitfinch.com/tools/wheniwork/pricing
+wheniwork,When I Work,Pro,5,month,standard,,2026-09-26T00:00:00.000Z,https://wheniwork.com/pricing/,https://kitfinch.com/tools/wheniwork/pricing
+wheniwork,When I Work,Premium,8,month,standard,,2026-09-26T00:00:00.000Z,https://wheniwork.com/pricing/,https://kitfinch.com/tools/wheniwork/pricing
+xero,Xero,Early,25,month,standard,,2026-09-24T23:40:00.000Z,https://www.xero.com/us/pricing/,https://kitfinch.com/tools/xero/pricing
+xero,Xero,Growing,55,month,standard,,2026-09-24T23:40:00.000Z,https://www.xero.com/us/pricing/,https://kitfinch.com/tools/xero/pricing
+xero,Xero,Established,90,month,standard,,2026-09-24T23:40:00.000Z,https://www.xero.com/us/pricing/,https://kitfinch.com/tools/xero/pricing
